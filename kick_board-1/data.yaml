@@ -1,0 +1,12 @@
+names:
+- KickBoard
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: kick_board-cmm9l
+  url: https://universe.roboflow.com/kk573113/kick_board-cmm9l/dataset/1
+  version: 1
+  workspace: kk573113
+test: ../test/images
+train: kick_board-1/train/images
+val: kick_board-1/valid/images
